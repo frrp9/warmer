@@ -1,0 +1,15 @@
+hub.env
+runner/state/
+**/state/
+launcher/bin/
+launcher/obj/
+launcher/dist/
+node_modules/
+runner/node_modules/
+runner/dist/
+runner/payload.zip
+runner/snapshot/runner/node_modules/
+runner/snapshot/runner/dist/
+*.exe
+payload.zip
+dumps/
